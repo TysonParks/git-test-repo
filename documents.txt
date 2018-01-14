@@ -1,0 +1,4 @@
+total 16
+-rw-r--r--@ 1 TyParks  staff  536 Jan 13 23:55 SampleText.rtf
+-rw-r--r--  1 TyParks  staff    0 Jan 14 00:28 documents.txt
+-rw-r--r--@ 1 TyParks  staff   12 Jan 14 00:25 example.txt
